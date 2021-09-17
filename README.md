@@ -1,0 +1,1 @@
+This is Day 2 (9/17/21) of TOP: Foundations! With this first project I hope to demonstrate my understanding of HTML basics. Cheers!
